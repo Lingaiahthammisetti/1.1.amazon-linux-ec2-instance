@@ -1,2 +1,2 @@
-# 1.1.Linux-basics
-1.1.Linux-basics
+# \* Amazon Linux ec2 instance creation
+
